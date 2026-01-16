@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  render:
+  - index.qmd
+  - cv.qmd
 
 website:
   title: "Timo van Ommeren"
